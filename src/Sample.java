@@ -1,10 +1,10 @@
 public class Sample {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 5;
-        System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println(a*b);
-        System.out.println(a/b);
+        int a = 80;
+        int b = 75;
+        int c = 55;
+        System.out.println((a + b + c) / 3); // 70 출력
     }
 }
+
+
