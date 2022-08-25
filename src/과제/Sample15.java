@@ -1,3 +1,5 @@
+package 과제;
+
 public class Sample15 {
     public static void main(String[] args) {
         int[] marks = {70, 60, 55, 75, 95, 90, 80, 80, 85, 100};

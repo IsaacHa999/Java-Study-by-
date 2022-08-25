@@ -1,3 +1,5 @@
+package 과제;
+
 import java.util.ArrayList;
         import java.util.Arrays;
 

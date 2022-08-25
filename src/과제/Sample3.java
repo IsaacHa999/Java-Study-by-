@@ -1,3 +1,5 @@
+package 과제;
+
 public class Sample3 {
     public static void main(String[] args) {
         String pin = "881120-1068234";

@@ -1,3 +1,5 @@
+package 오주차과제;
+
 class SharpPencil{
     int width, amount;
 

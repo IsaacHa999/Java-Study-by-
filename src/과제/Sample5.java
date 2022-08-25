@@ -1,3 +1,5 @@
+package 과제;
+
 public class Sample5 {
     public static void main(String[] args) {
         String a = "a:b:c:d";

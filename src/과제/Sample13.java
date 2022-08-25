@@ -1,3 +1,5 @@
+package 과제;
+
 public class Sample13 {
     public static void main(String[] args) {
         int i = 0;
